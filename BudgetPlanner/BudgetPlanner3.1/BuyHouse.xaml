@@ -1,0 +1,34 @@
+﻿<Window x:Class="BudgetPlanner3._1.BuyHouse"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        WindowStartupLocation="CenterScreen"
+        xmlns:local="clr-namespace:BudgetPlanner3._1"
+        mc:Ignorable="d"
+        Title="BuyHouse" Height="450" Width="800"
+        Background="Black">
+    <Grid Margin="0,0,0,15">
+        <Label Content="Please enter the following values :" Foreground="Red" FontSize="20" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="31,24,0,0" FontFamily="Segoe UI Light"/>
+        <Grid HorizontalAlignment="Left" Height="245" VerticalAlignment="Top" Width="516" Margin="31,76,0,0">
+            <Label Content="Purchase price of house :" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="15"/>
+            <Label Content="Total deposit for house :" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="15" Margin="0,35,0,0"/>
+            <Label Content="Interest rate :" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="15" Margin="0,71,0,0"/>
+            <Label Content="Number of months(between 240 and 360) :" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="15" RenderTransformOrigin="0.47,-1.313"/>
+            <TextBox x:Name="houseDepositTB" TextWrapping="Wrap" Width="175" Height="20" Margin="340,40,2,185"/>
+            <TextBox x:Name="houseInterestTB" TextWrapping="Wrap" Width="175" Height="20" Margin="340,76,2,149"/>
+            <TextBox x:Name="houseMonthsTB" TextWrapping="Wrap" Width="175" Height="20" Margin="340,112,2,113"/>
+            <TextBox x:Name="housePriceTB" TextWrapping="Wrap" Width="175" Height="20" Margin="339,5,1,222"/>
+        </Grid>
+        <Grid HorizontalAlignment="Center" Margin="0,365,0,0" VerticalAlignment="Top" Width="197">
+            <Button Content="Enter" HorizontalAlignment="Left" VerticalAlignment="Top" Height="32" Width="178" Background="LimeGreen" Click="Button_Click" Margin="-264,-84,0,0">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="25"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+        </Grid>
+        <Image HorizontalAlignment="Left" Height="231" Margin="566,76,0,0" VerticalAlignment="Top" Width="195" Source="/3d-fluency-home.png"/>
+    </Grid>
+</Window>

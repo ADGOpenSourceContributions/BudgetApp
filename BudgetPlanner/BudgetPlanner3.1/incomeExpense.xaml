@@ -1,0 +1,58 @@
+﻿<Window x:Class="BudgetPlanner3._1.incomeExpense"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BudgetPlanner3._1"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="Income and Expenses" Height="549" Width="783"
+
+        Background="Black">
+    <Grid Margin="0,0,10,-6">
+        <Label Content="Income and Expenses" Foreground="White" FontSize="25" Margin="45,36,444,0" Height="43" VerticalAlignment="Top"/>
+        <Grid HorizontalAlignment="Left" Height="30" VerticalAlignment="Top" Width="520" Margin="44,89,0,0">
+            <Label Content="Please enter your monthly income before deductions :" HorizontalAlignment="Left" VerticalAlignment="Center" Width="371" Foreground="LimeGreen" FontSize="15"/>
+            <TextBox x:Name="incomeTb" HorizontalAlignment="Left" Margin="371,0,0,0" TextWrapping="Wrap" VerticalAlignment="Center" Width="150" Height="20"/>
+        </Grid>
+        <Grid HorizontalAlignment="Left" Height="240" Margin="45,147,0,0" VerticalAlignment="Top" Width="398">
+
+            <Label Content="Tax Deductions :" Foreground="White" FontSize="15" Height="29" Width="120" Margin="0,34,0,175" HorizontalAlignment="Left"/>
+            <Label Content="Groceries :" FontSize="15" Foreground="White" VerticalAlignment="Top" Margin="0,68,0,0" HorizontalAlignment="Left"/>
+            <Label Content="Water and Lights :" FontSize="15" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Left"/>
+            <Label Content="Travel Costs :" Foreground="White" FontSize="15" VerticalAlignment="Top" Margin="0,138,0,0" HorizontalAlignment="Left"/>
+            <Label Content="Cell and Telephone bill :" Foreground="White" FontSize="15" VerticalAlignment="Top" Margin="0,173,0,0" HorizontalAlignment="Left"/>
+            <Label Content="Other Expenses :" Foreground="White" FontSize="15" VerticalAlignment="Top" Margin="0,208,0,0" HorizontalAlignment="Left"/>
+            <TextBox x:Name="taxTB" HorizontalAlignment="Left" Margin="182,41,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="133" Height="15"/>
+            <TextBox x:Name="groceriesTB" HorizontalAlignment="Left" Margin="182,75,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="133" Height="15"/>
+            <TextBox x:Name="travelTB" HorizontalAlignment="Left" TextWrapping="Wrap" Width="133" Height="15" Margin="182,145,0,0" VerticalAlignment="Top"/>
+            <TextBox x:Name="waterTB" HorizontalAlignment="Left" Margin="182,0,0,0" TextWrapping="Wrap" VerticalAlignment="Center" Width="133" Height="15"/>
+            <TextBox x:Name="cellTB" HorizontalAlignment="Left" Margin="182,180,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="133" Height="15"/>
+            <TextBox x:Name="otherTB" HorizontalAlignment="Left" Margin="182,215,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="133" Height="15"/>
+            <Label Content="Please enter the following monthly deductions :" FontSize="15" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="-0.019,-0.309" Foreground="Red"/>
+        </Grid>
+        <Button x:Name="btnSubmit" Content="Submit" HorizontalAlignment="Left" Margin="45,409,0,0" VerticalAlignment="Top"  FontWeight="Bold" BorderThickness="1,1,1,1" FontSize="15" Height="48" Width="153" BorderBrush="{x:Null}" Background="#FF0F8827" Foreground="#FFFFF3F3" Click="Button_Click">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="25"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Button x:Name="buyHousebtn" Content="Buy" HorizontalAlignment="Left" Margin="187,474,0,0" FontWeight="Bold"  VerticalAlignment="Top" Width="128" Height="34" Click="Button_Click_1" Background="Aqua" Foreground="#FFFFF3F3" IsEnabled="False">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="25"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Button x:Name="rentHousebtn" Content="Rent" HorizontalAlignment="Left" Margin="45,474,0,0" FontWeight="Bold"   VerticalAlignment="Top" Width="132" Height="34" Click="Button_Click_2" Background="DarkRed" RenderTransformOrigin="0.742,0.648" Foreground="#FFFFF3F3" IsEnabled="False">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="25"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Image HorizontalAlignment="Left" Height="314" Margin="464,180,0,0" VerticalAlignment="Top" Width="299" Source="/hugo-expense-tracking.png"/>
+    </Grid>
+</Window>
+ 

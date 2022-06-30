@@ -1,0 +1,100 @@
+C:\Users\User\source\repos\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\BudgetPlanner3.1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\BuyHouse.g.cs
+C:\Users\User\source\repos\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\incomeExpense.g.cs
+C:\Users\User\source\repos\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\User\source\repos\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\Rent.g.cs
+C:\Users\User\source\repos\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\User\source\repos\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\BudgetPlanner3.1_MarkupCompile.cache
+C:\Users\User\source\repos\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\BudgetPlanner3.1_MarkupCompile.lref
+C:\Users\User\source\repos\BudgetPlanner3.1\BudgetPlanner3.1\bin\Debug\netcoreapp3.1\BudgetPlanner3.1.exe
+C:\Users\User\source\repos\BudgetPlanner3.1\BudgetPlanner3.1\bin\Debug\netcoreapp3.1\BudgetPlanner3.1.deps.json
+C:\Users\User\source\repos\BudgetPlanner3.1\BudgetPlanner3.1\bin\Debug\netcoreapp3.1\BudgetPlanner3.1.runtimeconfig.json
+C:\Users\User\source\repos\BudgetPlanner3.1\BudgetPlanner3.1\bin\Debug\netcoreapp3.1\BudgetPlanner3.1.runtimeconfig.dev.json
+C:\Users\User\source\repos\BudgetPlanner3.1\BudgetPlanner3.1\bin\Debug\netcoreapp3.1\BudgetPlanner3.1.dll
+C:\Users\User\source\repos\BudgetPlanner3.1\BudgetPlanner3.1\bin\Debug\netcoreapp3.1\BudgetPlanner3.1.pdb
+C:\Users\User\source\repos\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\BuyHouse.baml
+C:\Users\User\source\repos\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\incomeExpense.baml
+C:\Users\User\source\repos\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\User\source\repos\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\Rent.baml
+C:\Users\User\source\repos\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\BudgetPlanner3.1.g.resources
+C:\Users\User\source\repos\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\BudgetPlanner3.1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\BudgetPlanner3.1.AssemblyInfo.cs
+C:\Users\User\source\repos\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\BudgetPlanner3.1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\BudgetPlanner3.1.dll
+C:\Users\User\source\repos\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\BudgetPlanner3.1.pdb
+C:\Users\User\source\repos\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\BudgetPlanner3.1.genruntimeconfig.cache
+C:\Users\User\source\repos\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\ChooseCar.g.cs
+C:\Users\User\source\repos\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\ChooseCar.baml
+C:\Users\User\source\repos\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\Expenses.g.cs
+C:\Users\User\source\repos\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\Expenses.baml
+C:\Users\User\source\repos\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\Savings.g.cs
+C:\Users\User\source\repos\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\Savings.baml
+C:\Users\User\source\repos\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\carPage.g.cs
+C:\Users\User\source\repos\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\carPage.baml
+C:\Users\ramck\Desktop\wfp designs\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\bin\Debug\netcoreapp3.1\BudgetPlanner3.1.exe
+C:\Users\ramck\Desktop\wfp designs\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\bin\Debug\netcoreapp3.1\BudgetPlanner3.1.deps.json
+C:\Users\ramck\Desktop\wfp designs\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\bin\Debug\netcoreapp3.1\BudgetPlanner3.1.runtimeconfig.json
+C:\Users\ramck\Desktop\wfp designs\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\bin\Debug\netcoreapp3.1\BudgetPlanner3.1.runtimeconfig.dev.json
+C:\Users\ramck\Desktop\wfp designs\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\bin\Debug\netcoreapp3.1\BudgetPlanner3.1.dll
+C:\Users\ramck\Desktop\wfp designs\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\bin\Debug\netcoreapp3.1\BudgetPlanner3.1.pdb
+C:\Users\ramck\Desktop\wfp designs\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\BudgetPlanner3.1.csprojAssemblyReference.cache
+C:\Users\ramck\Desktop\wfp designs\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\BuyHouse.g.cs
+C:\Users\ramck\Desktop\wfp designs\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\carPage.g.cs
+C:\Users\ramck\Desktop\wfp designs\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\ChooseCar.g.cs
+C:\Users\ramck\Desktop\wfp designs\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\Expenses.g.cs
+C:\Users\ramck\Desktop\wfp designs\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\incomeExpense.g.cs
+C:\Users\ramck\Desktop\wfp designs\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\ramck\Desktop\wfp designs\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\Rent.g.cs
+C:\Users\ramck\Desktop\wfp designs\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\Savings.g.cs
+C:\Users\ramck\Desktop\wfp designs\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\ramck\Desktop\wfp designs\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\BudgetPlanner3.1_MarkupCompile.cache
+C:\Users\ramck\Desktop\wfp designs\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\BudgetPlanner3.1_MarkupCompile.lref
+C:\Users\ramck\Desktop\wfp designs\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\BuyHouse.baml
+C:\Users\ramck\Desktop\wfp designs\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\carPage.baml
+C:\Users\ramck\Desktop\wfp designs\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\ChooseCar.baml
+C:\Users\ramck\Desktop\wfp designs\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\Expenses.baml
+C:\Users\ramck\Desktop\wfp designs\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\incomeExpense.baml
+C:\Users\ramck\Desktop\wfp designs\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\ramck\Desktop\wfp designs\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\Rent.baml
+C:\Users\ramck\Desktop\wfp designs\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\Savings.baml
+C:\Users\ramck\Desktop\wfp designs\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\BudgetPlanner3.1.g.resources
+C:\Users\ramck\Desktop\wfp designs\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\BudgetPlanner3.1.AssemblyInfoInputs.cache
+C:\Users\ramck\Desktop\wfp designs\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\BudgetPlanner3.1.AssemblyInfo.cs
+C:\Users\ramck\Desktop\wfp designs\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\BudgetPlanner3.1.csproj.CoreCompileInputs.cache
+C:\Users\ramck\Desktop\wfp designs\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\BudgetPlanner3.1.dll
+C:\Users\ramck\Desktop\wfp designs\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\BudgetPlanner3.1.pdb
+C:\Users\ramck\Desktop\wfp designs\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\BudgetPlanner3.1.genruntimeconfig.cache
+C:\Users\ADGSENPAI\Downloads\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\bin\Debug\netcoreapp3.1\BudgetPlanner3.1.exe
+C:\Users\ADGSENPAI\Downloads\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\bin\Debug\netcoreapp3.1\BudgetPlanner3.1.deps.json
+C:\Users\ADGSENPAI\Downloads\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\bin\Debug\netcoreapp3.1\BudgetPlanner3.1.runtimeconfig.json
+C:\Users\ADGSENPAI\Downloads\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\bin\Debug\netcoreapp3.1\BudgetPlanner3.1.runtimeconfig.dev.json
+C:\Users\ADGSENPAI\Downloads\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\bin\Debug\netcoreapp3.1\BudgetPlanner3.1.dll
+C:\Users\ADGSENPAI\Downloads\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\bin\Debug\netcoreapp3.1\BudgetPlanner3.1.pdb
+C:\Users\ADGSENPAI\Downloads\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\BudgetPlanner3.1.csproj.AssemblyReference.cache
+C:\Users\ADGSENPAI\Downloads\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\BuyHouse.g.cs
+C:\Users\ADGSENPAI\Downloads\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\carPage.g.cs
+C:\Users\ADGSENPAI\Downloads\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\ChooseCar.g.cs
+C:\Users\ADGSENPAI\Downloads\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\Expenses.g.cs
+C:\Users\ADGSENPAI\Downloads\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\incomeExpense.g.cs
+C:\Users\ADGSENPAI\Downloads\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\ADGSENPAI\Downloads\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\Rent.g.cs
+C:\Users\ADGSENPAI\Downloads\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\Savings.g.cs
+C:\Users\ADGSENPAI\Downloads\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\ADGSENPAI\Downloads\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\BudgetPlanner3.1_MarkupCompile.cache
+C:\Users\ADGSENPAI\Downloads\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\BudgetPlanner3.1_MarkupCompile.lref
+C:\Users\ADGSENPAI\Downloads\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\BuyHouse.baml
+C:\Users\ADGSENPAI\Downloads\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\carPage.baml
+C:\Users\ADGSENPAI\Downloads\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\ChooseCar.baml
+C:\Users\ADGSENPAI\Downloads\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\Expenses.baml
+C:\Users\ADGSENPAI\Downloads\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\incomeExpense.baml
+C:\Users\ADGSENPAI\Downloads\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\ADGSENPAI\Downloads\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\Rent.baml
+C:\Users\ADGSENPAI\Downloads\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\Savings.baml
+C:\Users\ADGSENPAI\Downloads\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\BudgetPlanner3.1.g.resources
+C:\Users\ADGSENPAI\Downloads\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\BudgetPlanner3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADGSENPAI\Downloads\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\BudgetPlanner3.1.AssemblyInfoInputs.cache
+C:\Users\ADGSENPAI\Downloads\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\BudgetPlanner3.1.AssemblyInfo.cs
+C:\Users\ADGSENPAI\Downloads\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\BudgetPlanner3.1.csproj.CoreCompileInputs.cache
+C:\Users\ADGSENPAI\Downloads\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\BudgetPlanner3.1.dll
+C:\Users\ADGSENPAI\Downloads\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\BudgetPlanner3.1.pdb
+C:\Users\ADGSENPAI\Downloads\BudgetPlanner3.1\BudgetPlanner3.1\BudgetPlanner3.1\obj\Debug\netcoreapp3.1\BudgetPlanner3.1.genruntimeconfig.cache

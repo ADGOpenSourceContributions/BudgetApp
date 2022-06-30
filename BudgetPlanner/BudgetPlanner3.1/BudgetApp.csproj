@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>BudgetApp</RootNamespace>
+    <UseWPF>true</UseWPF>
+    <NoWin32Manifest>true</NoWin32Manifest>
+    <StartupObject>BudgetPlanner3._1.App</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="3d-fluency-home.png" />
+    <None Remove="512px-Money_Flat_Icon.svg.png" />
+    <None Remove="abstract-1278.png" />
+    <None Remove="hugo-expense-tracking.png" />
+    <None Remove="marginalia-1186.png" />
+    <None Remove="marginalia-autopilot-vehicle.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="3d-fluency-home.png" />
+    <Resource Include="512px-Money_Flat_Icon.svg.png" />
+    <Resource Include="abstract-1278.png" />
+    <Resource Include="hugo-expense-tracking.png" />
+    <Resource Include="marginalia-1186.png" />
+    <Resource Include="marginalia-autopilot-vehicle.png" />
+  </ItemGroup>
+
+</Project>
